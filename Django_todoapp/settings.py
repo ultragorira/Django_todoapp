@@ -26,7 +26,7 @@ SECRET_KEY = 'v*6skr4s+m-d6@3&eu_ps0sm9meh_efz+bssh(net%t!*kyokb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['otacontodolist.herokuapp.com']
 
 
 # Application definition
